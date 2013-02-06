@@ -1,0 +1,171 @@
+1
+You're standing on the edge of a forest, north of your home town. You've heard rumours of an ancient keep built into the mountain in the forest, filled with treasures. Nobody has ever come back from the keep, which leaves you wondering how they know about the treasures, but nevertheless, you're ready to seek them out.
+
+2
+You move north into the forest, the path growing more and more overgrown as you get deeper. After what feels like several hours of struggling through brush, you come to a clearing. The path you are on seems to bend around to the east; however, there is another path to the west, shaded by the trees overhead, which seems to have been made by someone - or something - trampling through the undergrowth.
+
+3
+The trampled path leads up to a cliff face. It looks like there was once a tunnel built into the cliff; however, a rockslide has left it blocked off. You see a glint of metal beneath one of the rocks, and on closer inspection, you find that it's a helmet on an old body - though where the body's arms are, or what made the scorch marks around the rock pile, you cannot say.
+
+4
+The path continues going east. You reach a break in the foliage overhead, and looking up, you can see that it's about <insert time here>.
+
+5
+You reach another clearing, and the path splits to the north and south. To the south, the path is clearly well cleared, and you can hear the faint sound of music playing. To the north, however, the path leads up to the side of the mountain, and there you see your goal. A massive entryway looms out of the mountainside, its borders bound by iron bands, strange characters etched into the metal. You think you can make out a glint of light, somewhere down the tunnel, but you can't make out any sounds. And one thing's for certain: you want to avoid whatever left the massive clawprint in the mud just outside.
+
+6
+The path opens up into a circle of dirt that has been purposefully cleared; the forest is thick all around it. At the other end of the circle is a table, with what looks like weapons, armor, and several potions carefully arranged. As you walk further into the clearing, you see the source of the music - an old man puts down the lute he was trying (and failing) to play, and dashes up to you with the most ingratiating grin you've ever seen, proudly exclaiming:
+
+"Welcome to Willie's Used Equipment Shop, where we loot the people who died trying to explore the old fortress, and pass our savings on to you!"
+
+He grabs you by the shoulder and forcefully steers you towards the display table, babbling about deals and warranties.
+
+7
+The entrance hall must have been magnificent once. Now, it's mostly rubble. Giant stone columns line the hall, each
+covered in alcoves in which smashed statues sit. Large chunks of stone have fallen from the ceiling and walls. The
+sounds of small creatures skittering past comes from the shadows to either side.
+
+Someone has kept the torches on the pathway-side of the columns lit. You're not sure if this is lucky or not.
+
+8
+As the hallway leads into a corner passage, you start to see signs of what now lives in the fortress. Old skulls,
+mounted on crude spears, are arranged haphazardly around the room. In front of the west entryway, someone has painted
+the ground with dark red letters: "Gob tertory! No huminz alowed!"
+
+9
+You come to a large antechamber. Your path continues straight west, but to the north is a large gateway. Strangely, the
+goblins don't seem to have wanted to come near this door. Set in a large tablet in front of the door are 2 faintly glowing
+orbs. Both are clearly sealed tight into the tablet, but a third, empty socket sits above them. High above the door, 
+something has seemingly melted a tunnel through the rock of the wall, but there's no way you could climb that high.
+
+10
+Goblin sign is stronger here than ever; it looks like they may be using this as a dumping ground for anything they
+can't wield, wear, or eat. Piles of garbage line either side of the passage.
+
+11
+You come to a crossway in the fortress. The lit torches go around a bend to the south, and a rickety wall of spears
+stands pointing out from the doorway; they clearly grasp the principle of defense, but haven't accounted for anyone
+smart enough to walk between two sticks coming through. Neither the west or the north passage has any torches, but
+to the north, you see a faint blue glow, and hear an odd clicking noise echoing down the hall. The west doorway is
+pitch black.
+
+12
+You have found the goblin's camp. Primitive cloth tents are poorly pitched on sticks around this large gallery, and
+spoils of raiding are piled in the corners. You are interested in the large chest, along the south wall of the room.
+You are somewhat more interested in the angry goblins staring at you from their homes.
+
+13
+You stumble forward in the dark, into what seems to be a small room. It is pitch black. You are likely to be
+eaten by a grue.
+
+14
+You walk into the largest room you've seen since the entry hall. The walls to either side of you hold row after row
+of alcoves, and every one you can see into holds a coffin. Strange blue lights stream like smoke around the room,
+making the shadows of statues and monuments dance. At the northern end of the room is a pedestal, on which sits a
+softly glowing blue sphere, much like the ones from the antechamber you passed through before.
+
+You quickly realize not all the movements are shadows, as several skeletons step out from shadowed alcoves around
+you, blue light seeping from their eye sockets.
+
+15
+The doors open into a long, uniform passage, stretching further north than you can see. The passage is lined with
+broken statues, and many of the walls are covered in patches of some sort of eerily growing lichen, illuminating
+the path ahead.
+
+16
+The staircase leads up into what sounds like a very large room, judging from the echos; you can't actually see anything
+that indicates what it was for. You can, however, hear rustling from around the corners of the room.
+
+17
+You reach a crossroad in the passage. To either side are stairs leading up. The eastern staircase is lit by the same fungi
+as the passage, but the western stairs turn pitch black after only a few steps; it looks like something ripped the
+lights down from the wall. The passage itself keeps stretching north, and you are beginning to notice that it has
+started to slowly slope downward.
+
+18
+The staircase leads up into what was clearly once the armory. Most of the armor and weapons have either rusted or
+been looted. The ones on the skeletons standing around the room, however, look perfectly intact. 
+
+19
+The passageway continues, but you come to a spot where the air feels fresher. You look up, and see a giant tunnel has
+been carved out of the top, leading all the way up to the mountain's surface; judging from the sky, it's about <insert
+time here>. The tunnel is very long; the passageway must have lead you further down than you thought.
+
+20
+The passageway finally comes to an end, splitting off into two ornate gates to the east and west. The eastern gate has
+a massive keyhole in the center, but the western gate is hanging off its hinges.
+
+21
+You walk along a gallery that may once have been some kind of barracks; it is lined with many small, uniform rooms, many
+of which have shelves or old, rotted bed frames. At the end of the barracks, the path turns north.
+
+22
+You enter what was clearly once the center of the fortress. A massive iron throne looms from atop a set of stairs across
+the room, with a molding, faded carpet leading up to it. To the north, however, you see something that wasn't in the
+plans for the fortress - a massive tunnel, seemingly melted into the rock. The same giant claw marks you first saw outside
+mark the ground at the tunnel's entrance, and a rich red  glow comes from inside.
+
+23
+As the twisting passage starts to turn back to the west, you start noticing many odd things around you. The walls have
+rods which probably once held massive tapestries, that have long since rotted away. Every once in a while you pass under
+an arch, with runes inscribed in the surface underneath; they don't seem to be doing anything to you, but looking at them
+for longer than a glance makes your whole body start to ache.
+
+24
+The twisting passage finally ends in the biggest library you've ever seen. Row upon row of stacked shelves line the walls,
+with what must be thousands of books stacked along them. You nearly don't notice the runes inscribed in the floor in front
+of each shelf. They're similar to the ones from the arches; the difference is, these are glowing. It's probably best not
+to touch the books.
+
+At the far end, a large key lies on a table. It, too, is covered in runes. These don't seem quite as important. Maybe the
+small, fiery red creatures perched atop it and baring their teeth are distracting you.
+
+25
+You find the source of the glow - small pools of lava dot the edge of the tunnel, heating the air inside. The tunnel curves
+around to the east.
+
+26
+As you keep going, the pools of lava start getting larger. You reach a strange formation that was clearly carved with more care
+than the rest of the tunnel - a ring of stone extends in an arch above you, with massive runes etched into it. These are very
+different than those you saw before - sharply angular, and deeply incised rather than carefully inscribed.
+
+27
+Shortly after the runic ring, the tunnel splits off to the north and south. You are quickly distracted by an odor which is
+somehow strong enough to overcome the sulfurous fumes from the lava pits around you; you recognize it from stories your 
+parents used to tell you when they wanted to scare you. The stench of rotted meat and blood.
+
+This tunnel smells like troll.
+
+28
+The tunnel curves from south to east. The troll smell has not gone away, and now you see gigantic dents in the tunnel walls,
+as though something huge slammed them with a blunt instrument.
+
+29
+The tunnel goes straight. A pile of bones sits against the northern wall. Something has been gnawing on them.
+
+30
+The tunnel curves from west to south. The lava isn't merely pools anymore; bright streams slowly drip out of holes in the
+walls.
+
+31
+The tunnel curves from north to east. There are large, single-toed footprints in the floor here. Something must have been
+heavy to make them in the hard rock.
+
+32
+The tunnel goes straight, and narrows a bit. You see scratches along either side of the wall; something came through here
+that was nearly too big to fit.
+
+33
+The tunnel curves from west to north. A suit of armor is lying in the middle of your path. It's probably not much use to
+you, what with the entire left side being cooled molten slag.
+
+34
+You reach another fork in the tunnel. It continues going north to south, but there is a massive slab of iron up against the
+eastern wall; thin waves of smoke leak out from the corners of it. To one side of it is a giant-sized lever, with a large,
+iron padlocked chain holding it still.
+
+35
+The iron slab slams down like a drawbridge, leading out over a moat of lava. You've finally reached the end of the dungeon,
+and see that the stories of treasure are true. Piles of gold lay haphazardly scattered around the gigantic cavern, and you
+see gems and ancient equipment gleaming among them. It's so distracting that you almost don't notice the massive, scaly
+shape looming up from the gigantic central pile and blinking at you lazily. Then it roars. You've certainly noticed it now.

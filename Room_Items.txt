@@ -1,0 +1,104 @@
+1
+Leather Helmet, Bomb
+
+2
+Iron Sword
+
+3
+Small Health Potion, Leather Leggings
+
+4
+Nothing
+
+5
+Longbow
+
+6
+Dagger, Small Health Potion
+
+7
+Nothing
+
+8
+Bomb
+
+9
+Nothing
+
+10
+2 Small Health Potions, Handaxe, Leather Armor
+
+11
+Nothing
+
+12
+2 Small Health Potions, Crossbow, 1 Large Health Potion
+
+13
+Medium Health Potion, Bomb
+
+14
+Blue Key, Iron Shield
+
+15
+Nothing
+
+16
+Iron Helmet
+
+17
+Nothing
+
+18
+Iron Armor, 2 Iron Swords, Crossbow, 2 Medium Health Potions, 2 Bombs
+
+19
+Nothing
+
+20
+Medium Health Potion, Dagger
+
+21
+Nothing
+
+22
+Ancient Shield, Large Health Potion
+
+23
+Nothing
+
+24
+2 Large Health Potions, Iron Leggings
+
+25
+Nothing
+
+26
+Nothing
+
+27
+Large Health Potion
+
+28
+Nothing
+
+29
+Nothing
+
+30
+Nothing
+
+31
+Nothing
+
+32
+Large Health Potion, Claymore
+
+33
+Nothing
+
+34
+Nothing
+
+35
+Nothing (all loot will come from dragon death)
